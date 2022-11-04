@@ -17,7 +17,7 @@ parent_id is optional field, which contains the id of parent task in case of a s
 
 ## Show Task
 
-api endpoint - {{base_url}}/api/task/{{id}} <br /> method : POST <br />
+api endpoint - {{base_url}}/api/task/{{id}} <br /> method : GET <br />
 Get details of the task and its subtasks
 
 ## Complete Task
